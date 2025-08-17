@@ -1,6 +1,6 @@
 {
     "name": "really_inline",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "repo": "goodcleanfun/really_inline",
     "description": "Cross-platform force inline",
     "keywords": ["inline", "force inline", "cross-platform"],
