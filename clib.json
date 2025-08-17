@@ -1,0 +1,11 @@
+{
+    "name": "really_inline",
+    "version": "0.0.0",
+    "repo": "goodcleanfun/really_inline",
+    "description": "Cross-platform force inline",
+    "keywords": ["inline", "force inline", "cross-platform"],
+    "license": "MIT",
+    "src": [
+        "src/really_inline.h"
+    ]
+}
